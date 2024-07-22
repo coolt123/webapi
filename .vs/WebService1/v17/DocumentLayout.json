@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sever\\WebService1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\service\\studentcourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\service\\studentcourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\service\\istudentcourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\service\\istudentcourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\service\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\service\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\entity\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\entity\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\controllers\\studentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\controllers\\studentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|d:\\sever\\webservice1\\webservice1\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48811484-B79F-4CD3-9D7E-61FEF3E1BD34}|WebService1\\WebService1.csproj|solutionrelative:webservice1\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIM THE\\Desktop\\APINetCore\\APINetCore\\Service\\CourseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentCourseController.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Controllers\\StudentCourseController.cs",
+              "RelativeDocumentMoniker": "WebService1\\Controllers\\StudentCourseController.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Controllers\\StudentCourseController.cs",
+              "RelativeToolTip": "WebService1\\Controllers\\StudentCourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:33:34.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Entity\\Course.cs",
+              "RelativeDocumentMoniker": "WebService1\\Entity\\Course.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Entity\\Course.cs",
+              "RelativeToolTip": "WebService1\\Entity\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:33:58.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "WebService1\\Entity\\Student.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Entity\\Student.cs",
+              "RelativeToolTip": "WebService1\\Entity\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:34:24.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Entity\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "WebService1\\Entity\\StudentCourse.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Entity\\StudentCourse.cs",
+              "RelativeToolTip": "WebService1\\Entity\\StudentCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:34:41.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Service\\ICourseService.cs",
+              "RelativeDocumentMoniker": "WebService1\\Service\\ICourseService.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Service\\ICourseService.cs",
+              "RelativeToolTip": "WebService1\\Service\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:35:06.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentCourseService.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Service\\IStudentCourseService.cs",
+              "RelativeDocumentMoniker": "WebService1\\Service\\IStudentCourseService.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Service\\IStudentCourseService.cs",
+              "RelativeToolTip": "WebService1\\Service\\IStudentCourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:35:37.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "WebService1\\Service\\IStudentService.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Service\\IStudentService.cs",
+              "RelativeToolTip": "WebService1\\Service\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:35:58.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentCourseService.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Service\\StudentCourseService.cs",
+              "RelativeDocumentMoniker": "WebService1\\Service\\StudentCourseService.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Service\\StudentCourseService.cs",
+              "RelativeToolTip": "WebService1\\Service\\StudentCourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:36:21.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "WebService1\\Service\\StudentService.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Service\\StudentService.cs",
+              "RelativeToolTip": "WebService1\\Service\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:36:40.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Program.cs",
+              "RelativeDocumentMoniker": "WebService1\\Program.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Program.cs",
+              "RelativeToolTip": "WebService1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:41:53.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebService1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebService1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:43:05.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Service\\CourseService.cs",
+              "RelativeDocumentMoniker": "WebService1\\Service\\CourseService.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Service\\CourseService.cs",
+              "RelativeToolTip": "WebService1\\Service\\CourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:29:58.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebService1\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebService1\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:32:29.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\sever\\WebService1\\WebService1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebService1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\sever\\WebService1\\WebService1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebService1\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:32:58.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\KIM THE\\Desktop\\APINetCore\\APINetCore\\Service\\CourseService.cs",
+              "ToolTip": "C:\\Users\\KIM THE\\Desktop\\APINetCore\\APINetCore\\Service\\CourseService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:30:44.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
